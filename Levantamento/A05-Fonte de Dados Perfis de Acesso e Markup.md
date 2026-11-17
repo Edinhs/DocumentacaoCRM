@@ -72,6 +72,8 @@ No protótipo, as cotações são carregadas pela planilha com valores fictício
 
 *Exemplo: venda a R$ 150,00 e custo a R$ 100,00 → (1,5 − 1) × 100 = 50%.*
 
+O indicador exibido é o markup, e não a margem de contribuição (que considera despesas), conforme a distinção feita por Jean.
+
 O markup do total da cotação usa a **soma das vendas e a soma dos custos**, e não a média dos percentuais dos itens.
 
 | Caso | Venda | Custo | Markup |
